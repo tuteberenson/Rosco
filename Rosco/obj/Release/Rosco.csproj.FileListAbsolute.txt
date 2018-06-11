@@ -1,0 +1,10 @@
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\bin\Release\Rosco.exe.config
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\bin\Release\Rosco.exe
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\bin\Release\Rosco.pdb
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.MainScreen.resources
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.Properties.Resources.resources
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.Rosco.resources
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.csproj.GenerateResource.cache
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.csproj.CoreCompileInputs.cache
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.exe
+C:\Users\berenson\Documents\Projects\Rosco\Rosco\obj\Release\Rosco.pdb
